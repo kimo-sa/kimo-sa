@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I'm Akram 
+### I'm  UI/UX Designer :love_you_gesture:	
 
 <!--
 **kimo-sa/kimo-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
